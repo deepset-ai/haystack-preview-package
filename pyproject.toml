@@ -27,6 +27,7 @@ dependencies = [
   "rank_bm25",
   "tqdm",
   "tenacity",
+  "lazy-import",
 ]
 dynamic = ["version"]
 
