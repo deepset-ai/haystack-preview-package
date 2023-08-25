@@ -1,5 +1,5 @@
 [build-system]
-requires = ["hatchling", "hatch-vcs"]
+requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
@@ -39,7 +39,7 @@ Issues = "https://github.com/unknown/haystack-ai/issues"
 Source = "https://github.com/unknown/haystack-ai"
 
 [tool.hatch.version]
-source = "vcs"
+path = "haystack/__init__.py"
 
 [tool.hatch.envs.default]
 dependencies = [
