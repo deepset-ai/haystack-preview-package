@@ -34,9 +34,9 @@ dependencies = [
 dynamic = ["version"]
 
 [project.urls]
-Documentation = "https://github.com/unknown/haystack-ai#readme"
-Issues = "https://github.com/unknown/haystack-ai/issues"
-Source = "https://github.com/unknown/haystack-ai"
+Documentation = "https://docs.haystack.deepset.ai/docs"
+Issues = "https://github.com/deepset-ai/haystack/issues"
+Source = "https://github.com/deepset-ai/haystack"
 
 [tool.hatch.version]
 path = "haystack/__init__.py"
