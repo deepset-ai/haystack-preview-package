@@ -34,7 +34,7 @@ dependencies = [
 dynamic = ["version"]
 
 [project.urls]
-Documentation = "https://docs.haystack.deepset.ai/docs"
+Documentation = "https://github.com/deepset-ai/haystack/tree/main/haystack/preview"
 Issues = "https://github.com/deepset-ai/haystack/issues"
 Source = "https://github.com/deepset-ai/haystack"
 
