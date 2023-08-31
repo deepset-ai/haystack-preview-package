@@ -30,6 +30,7 @@ dependencies = [
   "tqdm",
   "tenacity",
   "lazy-imports",
+  "tiktoken"   # For OpenAI  # FIXME let's make an extra?
 ]
 dynamic = ["version"]
 
