@@ -30,6 +30,7 @@ dependencies = [
   "tqdm",
   "tenacity",
   "lazy-imports",
+  "Jinja2",
 ]
 dynamic = ["version"]
 
