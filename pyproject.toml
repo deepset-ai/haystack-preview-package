@@ -32,6 +32,7 @@ dependencies = [
   "lazy-imports",
   "openai",
   "Jinja2",
+  "openai-whisper",  # FIXME https://github.com/deepset-ai/haystack/issues/5731
 ]
 dynamic = ["version"]
 
