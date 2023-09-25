@@ -23,7 +23,7 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
 dependencies = [
-  "canals",
+  "canals==0.8.0",
   "requests",  # needed by canals
   "pandas",
   "rank_bm25",
