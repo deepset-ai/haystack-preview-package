@@ -33,6 +33,7 @@ dependencies = [
   "openai",
   "Jinja2",
   "posthog",  # telemetry
+  "pyyaml",
 ]
 dynamic = ["version"]
 
